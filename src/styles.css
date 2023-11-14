@@ -2,3 +2,27 @@ body{
     background-color: black;
     color: white;
 }
+
+
+.main_box_1{
+    background-color: rgb(25, 47, 4);
+    height: 200px;
+    display: flex;
+    width: 50%;
+}
+
+.box_1{
+    background-color: rgb(106, 7, 7);
+}
+
+.box_2{
+    background-color: rgb(113, 6, 85);
+}
+
+.box_3{
+    background-color: rgb(3, 82, 98);
+}
+
+.box_4{
+    background-color: rgb(22, 3, 90);
+}
